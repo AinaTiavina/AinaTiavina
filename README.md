@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAJOELISON Aina Tiavina</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-### stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Poseidon1402&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
 </p>
