@@ -2,9 +2,9 @@
 <h3 align="center">A passionate backend developer</h3>
 
 ### stats
-<a align="center" href="https://github-readme-stats.vercel.app/api?username=Poseidon1402&count_private=true&show_icons=true&theme=chartreuse-dark">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Poseidon1402&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
-</a>
+</p>
 
 <p align="left">
 </p>
