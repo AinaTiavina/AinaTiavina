@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm RAJOELISON Aina Tiavina</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **Symfony and React**
-
-- 📫 How to reach me **rajoelisonainatiavina@gmail.com**
+<a href="https://github-readme-stats.vercel.app/api?username=Poseidon1402&count_private=true&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Poseidon1402&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 
 <p align="left">
 </p>
