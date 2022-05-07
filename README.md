@@ -26,4 +26,4 @@
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 
 ### 🔥 Github Streaks
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Poseidon1402&theme=monokai-metallian&date_format=j%20M%5B%20Y%5D" alt="Poséidon" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Poseidon1402&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Poséidon" /></p>
