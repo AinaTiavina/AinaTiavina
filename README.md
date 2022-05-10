@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AinaTiavina&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Poseidon1402&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
 </p>
 
 ### Languages/Tools
@@ -26,4 +26,4 @@
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 
 ### 🔥 Github Streaks
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=AinaTiavina&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Poséidon" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Poseidon1402&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Poséidon" /></p>
