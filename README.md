@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=6000&pause=2000&center=true&width=1000&lines=Hi%F0%9F%91%8B!+I'm+RAJOELISON+Aina+Tiavina.+%F0%9F%98%8E;A+passionnate+software+developer+!+%F0%9F%98%8D;The+more+you+learn+the+more+you+earn.+%F0%9F%98%98%F0%9F%92%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=6000&pause=2000&center=true&width=1000&lines=Hi%F0%9F%91%8B!+I'm+RAJOELISON+Aina+Tiavina.+%F0%9F%98%8E;A+passionnate+software+developer+!+%F0%9F%98%8D;learn%2C+share%2C+improve+%F0%9F%A5%B0)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Poseidon1402&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" />
 </p>
