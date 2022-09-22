@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RAJOELISON Aina Tiavina</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋%20I'm+RAJOELISON%20Aina%20Tiavina)](https://git.io/typing-svg)
 <h3 align="center">A passionate backend developer</h3>
 
 <p align="center">
