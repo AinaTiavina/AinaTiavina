@@ -10,4 +10,4 @@
   <img src="https://img.shields.io/badge/php-%2302569B.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Poseidon1402)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Poseidon1402&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
