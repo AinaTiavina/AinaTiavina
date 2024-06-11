@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=6000&pause=2000&center=true&width=1000&lines=Hi%F0%9F%91%8B!+I'm+RAJOELISON+Aina+Tiavina.+%F0%9F%98%8E;A+passionnate+software+developer+!+%F0%9F%98%8D;learn%2C+share%2C+improve+%F0%9F%A5%B0)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/aina-tiavina/"><img src="https://a11ybadges.com/badge?logo=linkedin"/></a>
+   <a href="https://profile.codersrank.io/user/poseidon1402/"><img src="https://a11ybadges.com/badge?logo=codersrank" /></a></p>
+</p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Poseidon1402&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Poséidon" /></p>
 
 <p align="center">
