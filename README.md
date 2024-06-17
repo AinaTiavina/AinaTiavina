@@ -1,6 +1,6 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" /></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=6000&pause=2000&center=true&width=1000&lines=Hi%F0%9F%91%8B!+I'm+RAJOELISON+Aina+Tiavina.+%F0%9F%98%8E;A+passionnate+software+developer+!+%F0%9F%98%8D;learn%2C+share%2C+improve+%F0%9F%A5%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=2000&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=Everyday+life+is+like+programming%2C+I+guess.+;If+you+love+something%2C+you+can+put+beauty+into+it.%E2%80%9C++%E2%80%93+Donald+Knuth)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aina-tiavina/"><img src="https://a11ybadges.com/badge?logo=linkedin"/></a>
